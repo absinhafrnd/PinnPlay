@@ -1,3 +1,3 @@
 8/2/19 - shared idea of implementing pinnplay as website
-9/2/19 - learn the github fork and pull request, along with other concepts
+9/2/19 - learn the github fork and pull request, along with other concepts | also installed Bootstrap Studio for this project
 9/2/19 - starting the project by creating this repository
